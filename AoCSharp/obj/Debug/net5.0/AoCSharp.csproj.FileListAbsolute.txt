@@ -1,0 +1,16 @@
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.exe
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.deps.json
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.runtimeconfig.json
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.runtimeconfig.dev.json
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.dll
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\ref\AoCSharp.dll
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\bin\Debug\net5.0\AoCSharp.pdb
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.csprojAssemblyReference.cache
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.AssemblyInfoInputs.cache
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.AssemblyInfo.cs
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.dll
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\ref\AoCSharp.dll
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.pdb
+C:\Users\acarr14\Desktop\AoC2021\AoCSharp\obj\Debug\net5.0\AoCSharp.genruntimeconfig.cache
