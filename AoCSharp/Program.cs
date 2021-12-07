@@ -6,7 +6,7 @@ namespace AoCSharp
     {
         static void Main(string[] args)
         {
-            var subCalc = new SubBearingCalculator();
+            var subCalc = new Day2_SubBearingCalculator();
 
             subCalc.CoordinateFilePath = ".\\inputFiles\\day2.txt";
 

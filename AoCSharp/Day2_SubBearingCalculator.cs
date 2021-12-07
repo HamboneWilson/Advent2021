@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace AoCSharp
 {
-    class SubBearingCalculator
+    class Day2_SubBearingCalculator
     {
         private string coordinateFilePath;
 
